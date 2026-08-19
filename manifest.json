@@ -1,0 +1,21 @@
+{
+  "name": "AI学习工作台",
+  "short_name": "AI工作台",
+  "id": "./ai.html",
+  "description": "130天AI学习计划与学习规划智能体",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f2f5",
+  "theme_color": "#4a6cf7",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
